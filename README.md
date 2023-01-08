@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, r, html, css, javascript and latex
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: mail@huaqo.com
-- Buy me a coffee (https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js)
+- [Buy me a coffee](https://www.buymeacoffee.com/huaqo)
 
 <!---
 Huaqo/Huaqo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
